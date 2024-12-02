@@ -1,0 +1,6 @@
+@AzDotNetRabbitMQ.App_HostAddress = http://localhost:5158
+
+GET {{AzDotNetRabbitMQ.App_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
